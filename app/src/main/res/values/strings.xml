@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EsrefcanTuranFinalProjectWeather</string>
+    <string name="error_message">Not found!</string>
+</resources>
